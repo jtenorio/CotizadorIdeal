@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<conn>
+  <bd>
+    <user>cotizado_develop</user>
+    <pwd>112358ideal</pwd>
+    <name>cotizado_idealcercas</name>
+  </bd>
+</conn>

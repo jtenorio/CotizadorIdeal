@@ -1,0 +1,25 @@
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.Cotizador.resources
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.LogIn.resources
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.Properties.Resources.resources
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.Pruebas.resources
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\bin\Debug\CercaPronto 3D.exe
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\bin\Debug\CercaPronto 3D.pdb
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto 3D.exe
+C:\Users\AlexandrosV_Win7\Documents\Visual Studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto 3D.pdb
+C:\Users\AlexandrosV_Win7\documents\visual studio 2010\Projects\CercaPronto 3D\CercaPronto 3D\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\bin\Debug\CercaPronto 3D.exe.config
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\bin\Debug\CercaPronto 3D.exe
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\bin\Debug\CercaPronto 3D.pdb
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\bin\Debug\Microsoft.VisualBasic.dll
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.Cotizador.resources
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.LogIn.resources
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.Properties.Resources.resources
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto_3D.Pruebas.resources
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto 3D.exe
+C:\Users\AlexandrosV_Win7\Desktop\CercaPronto 3D\CercaPronto 3D\obj\x86\Debug\CercaPronto 3D.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <usuario>
+    <idusuario>1</idusuario>
+    <nombre>jorge david tenorio diaz</nombre>
+    <email>jtenorio@mushoq.com</email>
+    <pwd>217d01121c22e81dd57a52cea848334eca338bc0</pwd>
+    <pwd_init>0</pwd_init>
+    <estado>1</estado>
+    <eliminado>0</eliminado>
+    <tipo>a</tipo>
+  </usuario>
+</DocumentElement>
